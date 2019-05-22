@@ -4,3 +4,9 @@ git commit -a -m ""
 git log
 git push origin master
 git init
+git add filename.format
+git commit -m ""
+git add . (add all the files)
+git commit -m ""
+git remote add origin url
+git push origin master
